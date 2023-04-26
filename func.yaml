@@ -12,6 +12,6 @@ config:
   ADB_OCID: ocid1.autonomousdatabase.oc1.iad.anuwcljtgjf3kyqastdqyr2lnuj3rgnafua5hh6z7tufhkt3niydf7qg3sqa
   COMPANY: ITSPACK
   DBPWD: ClavE.012356,
-  DBSVC: FunctionADB
+  DBSVC: functionadb_high
   DBUSER: ADMIN
   TNS_ADMIN: /tmp/dbwallet
